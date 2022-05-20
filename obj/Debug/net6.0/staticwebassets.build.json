@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "h27UPPUme3rQsT8z4BcGIXxl2ee6hYdmbTkRgYlSSZs=",
+  "Source": "dotnet_graphql",
+  "BasePath": "_content/dotnet_graphql",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
